@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff>
+    <file datatype="plaintext" original="SendETHToken.strings" source-language="zh-Hans" target-language="zh-Hant">
+        <header>
+            <tool tool-id="com.peerassembly.linguan" tool-name="Linguan" tool-version="1.4.3" build-num="37"></tool>
+        </header>
+        <body>
+            <trans-unit id="9aF-EF-paM.text">
+                <source>数量</source>
+                <target>数量</target>
+                <note>Class = "UILabel"; text = "数量"; ObjectID = "9aF-EF-paM";</note>
+            </trans-unit>
+            <trans-unit id="aB1-4g-8Jj.placeholder">
+                <source>123.456</source>
+                <target>123.456</target>
+                <note>Class = "UITextField"; placeholder = "123.456"; ObjectID = "aB1-4g-8Jj";</note>
+            </trans-unit>
+            <trans-unit id="w4a-DH-Z6z.normalTitle">
+                <source>高级设置</source>
+                <target>アドバンスト設定</target>
+                <note>Class = "UIButton"; normalTitle = "アドバンスト設定"; ObjectID = "w4a-DH-Z6z";</note>
+            </trans-unit>
+
+        </body>
+    </file>
+    <file datatype="plaintext" original="Splash.strings" source-language="zh-Hans" target-language="zh-Hant">
+        <header>
+            <tool tool-id="com.peerassembly.linguan" tool-name="Linguan" tool-version="1.4.3" build-num="37"></tool>
+        </header>
+        <body>
+            <trans-unit id="IUK-26-JOc.normalTitle">
+                <source>用户识别</source>
+                <target>Face ID/Touch ID</target>
+                <note>Class = "UIButton"; normalTitle = "Face ID/Touch ID"; ObjectID = "IUK-26-JOc";</note>
+            </trans-unit>
+        </body>
+    </file>
+    <file datatype="plaintext" original="NewWallet.strings" source-language="zh-Hans" target-language="zh-Hant">
+        <header>
+            <tool tool-id="com.peerassembly.linguan" tool-name="Linguan" tool-version="1.4.3" build-num="37"></tool>
+        </header>
+        <body>
+            <trans-unit id="Pjh-OE-H7o.headerTitle">
+                <source>导入</source>
+                <target>Import</target>
+                <note>Class = "UITableViewSection"; headerTitle = "Import"; ObjectID = "Pjh-OE-H7o";</note>
+            </trans-unit>
+            <trans-unit id="uEb-sA-PBw.text">
+                <source>Keystore</source>
+                <target>Keystore</target>
+                <note>Class = "UILabel"; text = "Keystore"; ObjectID = "uEb-sA-PBw";</note>
+            </trans-unit>
+            <trans-unit id="gZk-03-Uoo.placeholder">
+                <source>密码</source>
+                <target>Password</target>
+                <note>Class = "UITextField"; placeholder = "Password"; ObjectID = "gZk-03-Uoo";</note>
+            </trans-unit>
+            <trans-unit id="IxF-Qj-bhx.text">
+                <source>Subtitle</source>
+                <note>Class = "UILabel"; text = "Subtitle"; ObjectID = "IxF-Qj-bhx";</note>
+            </trans-unit>
+            <trans-unit id="qoS-3g-dV8.title">
+                <source>导入方法</source>
+                <target>Select Import Methods</target>
+                <note>Class = "UITableViewController"; title = "Select Import Methods"; ObjectID = "qoS-3g-dV8";</note>
+            </trans-unit>
+        </body>
+    </file>
+    <file datatype="plaintext" original="ReceiveETHToken.strings" source-language="zh-Hans" target-language="zh-Hant">
+        <header>
+            <tool tool-id="com.peerassembly.linguan" tool-name="Linguan" tool-version="1.4.3" build-num="37"></tool>
+        </header>
+        <body>
+            <trans-unit id="AkP-Us-Yby.title">
+                <source>取消</source>
+                <target>Cancel</target>
+                <note>Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "AkP-Us-Yby";</note>
+            </trans-unit>
+            <trans-unit id="8xQ-DY-hob.title">
+                <source>Root View Controller</source>
+                <target>Root View Controller</target>
+                <note>Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "8xQ-DY-hob";</note>
+            </trans-unit>
+            <trans-unit id="iIy-4h-Epi.normalTitle">
+                <source>拷贝地址</source>
+                <target>アドレスをコピー</target>
+                <note>Class = "UIButton"; normalTitle = "アドレスをコピー"; ObjectID = "iIy-4h-Epi";</note>
+            </trans-unit>
+            <trans-unit id="yzC-yR-Ofk.text">
+                <source>Label</source>
+                <note>Class = "UILabel"; text = "Label"; ObjectID = "yzC-yR-Ofk";</note>
+            </trans-unit>
+        </body>
+    </file>
+    <file datatype="plaintext" original="Welcome.strings" source-language="zh-Hans" target-language="zh-Hant">
+        <header>
+            <tool tool-id="com.peerassembly.linguan" tool-name="Linguan" tool-version="1.4.3" build-num="37"></tool>
+        </header>
+        <body>
+            <trans-unit id="Uw6-dS-deE.normalTitle">
+                <source>可选项</source>
+                <target>Advanced ...</target>
+                <note>Class = "UIButton"; normalTitle = "Advanced ..."; ObjectID = "Uw6-dS-deE";</note>
+            </trans-unit>
+            <trans-unit id="pGN-SI-4Zz.normalTitle">
+                <source>开始</source>
+                <target>GET STARTED</target>
+                <note>Class = "UIButton"; normalTitle = "GET STARTED"; ObjectID = "pGN-SI-4Zz";</note>
+            </trans-unit>
+        </body>
+    </file>
+    <file datatype="plaintext" original="Settings.strings" source-language="zh-Hans" target-language="zh-Hant">
+        <header>
+            <tool tool-id="com.peerassembly.linguan" tool-name="Linguan" tool-version="1.4.3" build-num="37"></tool>
+        </header>
+        <body>
+            <trans-unit id="iRm-bk-qsC.headerTitle">
+                <source>通用</source>
+                <target>General</target>
+                <note>Class = "UITableViewSection"; headerTitle = "General"; ObjectID = "iRm-bk-qsC";</note>
+            </trans-unit>
+            <trans-unit id="RdW-1R-pYv.text">
+                <source>到账通知</source>
+                <target>Notification</target>
+                <note>Class = "UILabel"; text = "Notification"; ObjectID = "RdW-1R-pYv";</note>
+            </trans-unit>
+            <trans-unit id="d9X-6h-nZK.text">
+                <source>指纹/面部识别</source>
+                <target>Touch ID/Face ID</target>
+                <note>Class = "UILabel"; text = "Touch ID/Face ID"; ObjectID = "d9X-6h-nZK";</note>
+            </trans-unit>
+            <trans-unit id="HbI-i8-nU3.text">
+                <source>Title</source>
+                <target>Title</target>
+                <note>Class = "UILabel"; text = "Title"; ObjectID = "HbI-i8-nU3";</note>
+            </trans-unit>
+            <trans-unit id="PKX-w7-gOF.text">
+                <source>日语</source>
+                <target>日本語</target>
+                <note>Class = "UILabel"; text = "日本語"; ObjectID = "PKX-w7-gOF";</note>
+            </trans-unit>
+            <trans-unit id="y0C-dU-3c4.text">
+                <source>自动锁屏</source>
+                <note>Class = "UILabel"; text = "オートロック"; ObjectID = "y0C-dU-3c4";</note>
+            </trans-unit>
+            <trans-unit id="Nz1-jg-2hE.text">
+                <source>网络</source>
+                <target>Network</target>
+                <note>Class = "UILabel"; text = "Network"; ObjectID = "Nz1-jg-2hE";</note>
+            </trans-unit>
+            <trans-unit id="SM1-rC-2Y7.headerTitle">
+                <source>意见反馈</source>
+                <target>Feedback</target>
+                <note>Class = "UITableViewSection"; headerTitle = "Feedback"; ObjectID = "SM1-rC-2Y7";</note>
+            </trans-unit>
+            <trans-unit id="kSX-gc-BXl.text">
+                <source>Telegram电报群</source>
+                <target>Telegram</target>
+                <note>Class = "UILabel"; text = "Telegram"; ObjectID = "kSX-gc-BXl";</note>
+            </trans-unit>
+            <trans-unit id="ZIk-YS-VhJ.text">
+                <source>白色</source>
+                <target>White</target>
+                <note>Class = "UILabel"; text = "White"; ObjectID = "ZIk-YS-VhJ";</note>
+            </trans-unit>
+            <trans-unit id="iPB-Kx-TDO.text">
+                <source>5.876,543</source>
+                <target>5.876,543</target>
+                <note>Class = "UILabel"; text = "5.876,543"; ObjectID = "iPB-Kx-TDO";</note>
+            </trans-unit>
+            <trans-unit id="eKn-HA-kOk.text">
+                <source>电子邮件</source>
+                <target>Email</target>
+                <note>Class = "UILabel"; text = "Email"; ObjectID = "eKn-HA-kOk";</note>
+            </trans-unit>
+            <trans-unit id="RGM-wD-jru.text">
+                <source>语言</source>
+                <target>Language</target>
+                <note>Class = "UILabel"; text = "Language"; ObjectID = "RGM-wD-jru";</note>
+            </trans-unit>
+            <trans-unit id="cOE-aA-INf.title">
+                <source>选择语言</source>
+                <target>Choose Language</target>
+                <note>Class = "UITableViewController"; title = "Choose Language"; ObjectID = "cOE-aA-INf";</note>
+            </trans-unit>
+            <trans-unit id="epN-yj-v7f.text">
+                <source>主题</source>
+                <target>Theme</target>
+                <note>Class = "UILabel"; text = "Theme"; ObjectID = "epN-yj-v7f";</note>
+            </trans-unit>
+            <trans-unit id="BGd-uh-1oJ.text">
+                <source>立即</source>
+                <note>Class = "UILabel"; text = "Immediate"; ObjectID = "BGd-uh-1oJ";</note>
+            </trans-unit>
+            <trans-unit id="bXv-Ar-bqS.headerTitle">
+                <source>以太坊</source>
+                <target>Ethereum</target>
+                <note>Class = "UITableViewSection"; headerTitle = "Ethereum"; ObjectID = "bXv-Ar-bqS";</note>
+            </trans-unit>
+            <trans-unit id="Fxs-A1-YmY.text">
+                <source>USD</source>
+                <target>USD</target>
+                <note>Class = "UILabel"; text = "USD"; ObjectID = "Fxs-A1-YmY";</note>
+            </trans-unit>
+            <trans-unit id="D3X-L4-r5A.title">
+                <source>设置</source>
+                <target>Settings</target>
+                <note>Class = "UITabBarItem"; title = "Settings"; ObjectID = "D3X-L4-r5A";</note>
+            </trans-unit>
+            <trans-unit id="uzY-th-xFg.title">
+                <source>设置</source>
+                <target>設定</target>
+                <note>Class = "UINavigationItem"; title = "設定"; ObjectID = "uzY-th-xFg";</note>
+            </trans-unit>
+            <trans-unit id="1uU-G8-Jdl.text">
+                <source>Title</source>
+                <target>Title</target>
+                <note>Class = "UILabel"; text = "Title"; ObjectID = "1uU-G8-Jdl";</note>
+            </trans-unit>
+            <trans-unit id="5cj-OY-6ut.headerTitle">
+                <source>安全</source>
+                <target>Security</target>
+                <note>Class = "UITableViewSection"; headerTitle = "Security"; ObjectID = "5cj-OY-6ut";</note>
+            </trans-unit>
+        </body>
+    </file>
+    <file datatype="plaintext" original="Transactions.strings" source-language="zh-Hans" target-language="zh-Hant">
+        <header>
+            <tool tool-id="com.peerassembly.linguan" tool-name="Linguan" tool-version="1.4.3" build-num="37"></tool>
+        </header>
+        <body>
+            <trans-unit id="g2x-b7-WXF.title">
+                <source>历史记录</source>
+                <target>取引履歴</target>
+                <note>Class = "UITabBarItem"; title = "取引履歴"; ObjectID = "g2x-b7-WXF";</note>
+            </trans-unit>
+        </body>
+    </file>
+    <file datatype="plaintext" original="FilterSettingsViewController.strings" source-language="zh-Hans" target-language="zh-Hant">
+        <header>
+            <tool tool-id="com.peerassembly.linguan" tool-name="Linguan" tool-version="1.4.3" build-num="37"></tool>
+        </header>
+        <body>
+            <trans-unit id="gvz-xN-Wfc.segmentTitles[0]">
+                <source>只有标示</source>
+                <target>シンボルのみ</target>
+                <note>Class = "UISegmentedControl"; gvz-xN-Wfc.segmentTitles[0] = "シンボルのみ"; ObjectID = "gvz-xN-Wfc";</note>
+            </trans-unit>
+            <trans-unit id="n3x-19-qEZ.segmentTitles[0]">
+                <source>隐藏小数量</source>
+                <target>少数量非表示</target>
+                <note>Class = "UISegmentedControl"; n3x-19-qEZ.segmentTitles[0] = "少数量非表示"; ObjectID = "n3x-19-qEZ";</note>
+            </trans-unit>
+            <trans-unit id="gvz-xN-Wfc.segmentTitles[1]">
+                <source>名字＋标示</source>
+                <target>名前＋シンボル</target>
+                <note>Class = "UISegmentedControl"; gvz-xN-Wfc.segmentTitles[1] = "名前＋シンボル"; ObjectID = "gvz-xN-Wfc";</note>
+            </trans-unit>
+            <trans-unit id="hWV-qh-acr.segmentTitles[1]">
+                <source>名字顺序</source>
+                <target>名前順</target>
+                <note>Class = "UISegmentedControl"; hWV-qh-acr.segmentTitles[1] = "名前順"; ObjectID = "hWV-qh-acr";</note>
+            </trans-unit>
+            <trans-unit id="hWV-qh-acr.segmentTitles[2]">
+                <source>标示顺序</source>
+                <target>シンボル順</target>
+                <note>Class = "UISegmentedControl"; hWV-qh-acr.segmentTitles[2] = "シンボル順"; ObjectID = "hWV-qh-acr";</note>
+            </trans-unit>
+            <trans-unit id="hWV-qh-acr.segmentTitles[0]">
+                <source>时间顺序</source>
+                <target>時間順</target>
+                <note>Class = "UISegmentedControl"; hWV-qh-acr.segmentTitles[0] = "時間順"; ObjectID = "hWV-qh-acr";</note>
+            </trans-unit>
+            <trans-unit id="n3x-19-qEZ.segmentTitles[1]">
+                <source>全部显示</source>
+                <target>全て表示</target>
+                <note>Class = "UISegmentedControl"; n3x-19-qEZ.segmentTitles[1] = "全て表示"; ObjectID = "n3x-19-qEZ";</note>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
